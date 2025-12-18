@@ -70,12 +70,15 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight" height="160" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rikmyk&theme=tokyonight" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=rikmyk&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+---
+
 
 ---
 

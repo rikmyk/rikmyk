@@ -90,8 +90,11 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/92/cf/f992cf792b8cbd980ad1f341825fe610.gif" width="800" />
+<p align="left">
+  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="120" />
+</p>
+<p align="right">
+  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="120" />
 </p>
 
 
@@ -134,9 +137,9 @@ I help clients build **reliable, secure, and scalable systems** with clear docum
 
 ## 📫 Let's Connect
 
-- 🌐 GitHub: https://github.com/USERNAME_KAMU
-- 💬 Discord: yourname#0000
-- 📧 Email: your@email.com
+- 🌐 GitHub: https://github.com/rikmyk
+- 💬 Discord: kowri.
+- 📧 Email: rikomaykel01@email.com
 
 ---
 

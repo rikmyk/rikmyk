@@ -91,10 +91,10 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 ---
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="120" />
+  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="180" />
 </p>
 <p align="right">
-  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="120" />
+  <img src="https://i.pinimg.com/originals/25/4c/3a/254c3ab0cbf821a1dd0b558c57269238.gif" width="180" />
 </p>
 
 

@@ -72,8 +72,8 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight" height="160" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rikmyk&theme=tokyonight)](https://git.io/streak-stats)
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rikmyk&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight" height="160" />

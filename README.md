@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Dark Theme -->
-  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="480" />
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="480" />
   <!-- Light Theme -->
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif#gh-light-mode-only" width="480" />
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="480" />
 </p>
 
 <p align="center">

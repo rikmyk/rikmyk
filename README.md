@@ -91,7 +91,7 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/92/cf/f992cf792b8cbd980ad1f341825fe610.gif" width="400" />
+  <img src="https://i.pinimg.com/originals/f9/92/cf/f992cf792b8cbd980ad1f341825fe610.gif" width="800" />
 </p>
 
 

@@ -72,7 +72,7 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight" height="160" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rikmyk&theme=tokyonight)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=rikmyk&theme=tokyonight&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" height="160" />
 </p>
 
 <p align="center">

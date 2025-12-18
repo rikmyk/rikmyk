@@ -90,13 +90,11 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 ---
 
-<p align="right">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/92/cf/f992cf792b8cbd980ad1f341825fe610.gif" width="400" />
 </p>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220" />
-</p>
+
 
 ## 💼 Freelancer & Client Portfolio
 

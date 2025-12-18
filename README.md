@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Dark Theme -->
-  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="480" />
+  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="480" /><br>
   <!-- Light Theme -->
   <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="480" />
 </p>

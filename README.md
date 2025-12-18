@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Open%20for-Freelance-00C853?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-# 👋 Hi, I'm Riko Maikel
+# 👋 Hi, I'm Rico Maykel Erawanto
 
 > 💻 Full-Stack Developer | 🤖 Bot Engineer | 🌐 Web & Payment Gateway Integrator
 
@@ -71,12 +71,12 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rikmyk&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---

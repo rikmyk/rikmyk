@@ -68,12 +68,13 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight" height="160" />
+</p>
 
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
 

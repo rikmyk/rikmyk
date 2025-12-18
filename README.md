@@ -69,7 +69,6 @@ I specialize in crafting **high-precision prompts** for technical analysis, syst
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikmyk&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=rikmyk&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rikmyk&layout=compact&theme=tokyonight)
 
 

@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Dark Theme -->
-  <img src="[https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif#gh-dark-mode-only](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)" width="480" />
+  <img src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif" width="480" />
   <!-- Light Theme -->
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif#gh-light-mode-only" width="480" />
 </p>

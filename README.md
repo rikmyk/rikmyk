@@ -47,7 +47,3 @@ Building scalable applications with clean architecture, reliable integrations, a
 * Portfolio: https://richbloxbot.cloud
 * Discord: `kowri.`
 * Email: [ricomaykelerawanto@gmail.com](mailto:ricomaykelerawanto@gmail.com)
-
-## Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/rikmyk/rikmyk/output/github-contribution-grid-snake.svg)
